@@ -42,8 +42,6 @@ Nace de un problema real: en clubs amateur como el **Racing Pineda FS**, el cuer
 
 <br>
 
-📹 **Vídeo completo de la demo (análisis táctico end-to-end):** [`SmartChronoIP_DemoAnalisiTactic.mp4`](docs/demos/SmartChronoIP_DemoAnalisiTactic.mp4)
-📹 **Vídeo de la demo de etiquetado de partidos:** `docs/demos/SmartChronoIP_DemoEtiquetatgePartits.mp4` *(añádelo a esta carpeta)*
 
 ---
 
